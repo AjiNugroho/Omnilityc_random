@@ -1,4 +1,4 @@
-# Omnilytic Programming Challenge
+# Omnilytics Programming Challenge
 
 ## Challenge A
 create program to generating file that contains random string
